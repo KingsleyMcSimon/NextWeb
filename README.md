@@ -1,1 +1,1 @@
-# In this project, i tried to clone TheNextWeb home page or rather tried to understand the more the collaborative project done by Me(Kingsley McSimon O.) and Leonard Kanye(My coding partner in the Microverse HTML5 and CSS3 Course) by doing it on my own.
+# In this project, i tried to clone TheNextWeb home page or rather tried to understand the more the collaborative project done by Me(Kingsley McSimon O.) and Leonard Kanyesigye(My coding partner in the Microverse HTML5 and CSS3 Course) by doing it on my own.
